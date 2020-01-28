@@ -1,0 +1,22 @@
+{
+  "name": "ScreenshotJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "jimp": "^0.6.4",
+    "sharp": "^0.22.1",
+    "stdio": "^0.2.7",
+    "text-height": "^1.0.2",
+    "text-metrics": "^1.0.0",
+    "text2png": "^2.1.0",
+    "words-array": "^1.0.1"
+  }
+}
